@@ -31,8 +31,8 @@
 ### Testing Documentation
 
 - [Checklist](https://docs.google.com/spreadsheets/d/1fixkK-ygaenxCIoiQaap8UmdMoFDSDq8gQYswfLZ0ZU/edit#gid=1909205264)
-- [Test-Cases](https://docs.google.com/spreadsheets/d/1fixkK-ygaenxCIoiQaap8UmdMoFDSDq8gQYswfLZ0ZU/edit?usp=sharing)
-- [Bug-Reports](https://docs.google.com/spreadsheets/d/1fixkK-ygaenxCIoiQaap8UmdMoFDSDq8gQYswfLZ0ZU/edit?usp=sharing)
+- [Test-Cases](https://docs.google.com/spreadsheets/d/1fixkK-ygaenxCIoiQaap8UmdMoFDSDq8gQYswfLZ0ZU/edit#gid=1060147860)
+- [Bug-Reports](https://docs.google.com/spreadsheets/d/1fixkK-ygaenxCIoiQaap8UmdMoFDSDq8gQYswfLZ0ZU/edit#gid=1346161501)
 - [Postman Collections]()
 
 ---
