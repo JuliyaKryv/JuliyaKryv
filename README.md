@@ -6,7 +6,7 @@
 
 ## My CV
 
-![My CV](https://img.shields.io/badge/my_curriculum_vitae-1d1f9d?style=for-the-badge&logo=microsoftword&logoColor=88c8f7/ "CLICK HERE")
+![My CV](https://img.shields.io/badge/my_curriculum_vitae-4786cd?style=for-the-badge&logo=microsoftword&logoColor=88c8f7/ "CLICK HERE")
 
 ---
 
@@ -30,13 +30,13 @@
 
 ### Testing Documentation
 
-- [Checklists]()
-- [Test-Cases]()
-- [Bug-Reports]()
+- [Checklist](https://docs.google.com/spreadsheets/d/1fixkK-ygaenxCIoiQaap8UmdMoFDSDq8gQYswfLZ0ZU/edit#gid=1909205264)
+- [Test-Cases](https://docs.google.com/spreadsheets/d/1fixkK-ygaenxCIoiQaap8UmdMoFDSDq8gQYswfLZ0ZU/edit?usp=sharing)
+- [Bug-Reports](https://docs.google.com/spreadsheets/d/1fixkK-ygaenxCIoiQaap8UmdMoFDSDq8gQYswfLZ0ZU/edit?usp=sharing)
 - [Postman Collections]()
 
 ---
 
 ### Follow Me
 
-[![Header](https://img.shields.io/badge/Linkedin-30363c?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/yuliya-kryvitska-2ba970236/)
+[![Header](https://img.shields.io/badge/Linkedin-30363c?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/yuliya-kryvitska-2ba970236/ "CLICK HERE")
