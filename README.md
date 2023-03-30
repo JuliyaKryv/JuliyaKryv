@@ -20,13 +20,13 @@
 ![TestRail](https://img.shields.io/badge/TestRail-30363c?style=for-the-badge&logo=testrail&logoColor=71b556)
 ![DevTools](https://img.shields.io/badge/DevTools-30363c?style=for-the-badge&logo=googlechrome&logoColor=26c91e)
 ![Fiddler](https://img.shields.io/badge/Fiddler-30363c?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
-![CharlesProxy](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
+![CharlesProxy](https://img.shields.io/badge/Charles_Proxy-30363c?style=for-the-badge&logo=charles_proxy&logoColor=8cc4d7)
 ![Jenkins](https://img.shields.io/badge/Jenkins-30363c?style=for-the-badge&logo=jenkins&logoColor=f7f7f7)
 ![JMeter](https://img.shields.io/badge/JMeter-30363c?style=for-the-badge&logo=apache&logoColor=b51f44)
 ![VS Code](https://img.shields.io/badge/VS_Code-30363c?style=for-the-badge&logo=visualstudio&logoColor=42a2e9)
-![AndroidStudio](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
+![AndroidStudio](https://img.shields.io/badge/AndroidStudio-30363c?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
 ![Confluence](https://img.shields.io/badge/Confluence-30363c?style=for-the-badge&logo=confluence&logoColor=237fee)
-![PS Photoshop](https://img.shields.io/badge/PS_Photoshop-30363c?style=for-the-badge&logo=adobephotoshop&logoColor=1c71e4)
+[![PS Photoshop](https://img.shields.io/badge/PS_Photoshop-30363c?style=for-the-badge&logo=adobephotoshop&logoColor=1c71e4)]
 
 ---
 
