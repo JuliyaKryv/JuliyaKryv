@@ -6,7 +6,7 @@
 
 ## My CV
 
-![My CV](https://img.shields.io/badge/my_curriculum_vitae-4786cd?style=for-the-badge&logo=microsoftword&logoColor=88c8f7/ "CLICK HERE")
+[![My CV](https://img.shields.io/badge/my_curriculum_vitae-4786cd?style=for-the-badge&logo=microsoftword&logoColor=88c8f7/)](https://drive.google.com/file/d/1CxYNYNii2YzaEiXKcdrBVXiEKU1_PW_0/view?usp=share_link "CLICK HERE")
 
 ---
 
@@ -26,7 +26,7 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-30363c?style=for-the-badge&logo=visualstudio&logoColor=42a2e9)
 ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-30363c?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
 ![Confluence](https://img.shields.io/badge/Confluence-30363c?style=for-the-badge&logo=confluence&logoColor=237fee)
-[![PS Photoshop](https://img.shields.io/badge/PS_Photoshop-30363c?style=for-the-badge&logo=adobephotoshop&logoColor=1c71e4)]
+![PS Photoshop](https://img.shields.io/badge/PS_Photoshop-30363c?style=for-the-badge&logo=adobephotoshop&logoColor=1c71e4)
 
 ---
 
