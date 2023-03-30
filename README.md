@@ -20,9 +20,11 @@
 ![TestRail](https://img.shields.io/badge/TestRail-30363c?style=for-the-badge&logo=testrail&logoColor=71b556)
 ![DevTools](https://img.shields.io/badge/DevTools-30363c?style=for-the-badge&logo=googlechrome&logoColor=26c91e)
 ![Fiddler](https://img.shields.io/badge/Fiddler-30363c?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
+![CharlesProxy](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 ![Jenkins](https://img.shields.io/badge/Jenkins-30363c?style=for-the-badge&logo=jenkins&logoColor=f7f7f7)
 ![JMeter](https://img.shields.io/badge/JMeter-30363c?style=for-the-badge&logo=apache&logoColor=b51f44)
 ![VS Code](https://img.shields.io/badge/VS_Code-30363c?style=for-the-badge&logo=visualstudio&logoColor=42a2e9)
+![AndroidStudio](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
 ![Confluence](https://img.shields.io/badge/Confluence-30363c?style=for-the-badge&logo=confluence&logoColor=237fee)
 ![PS Photoshop](https://img.shields.io/badge/PS_Photoshop-30363c?style=for-the-badge&logo=adobephotoshop&logoColor=1c71e4)
 
@@ -33,7 +35,7 @@
 - [Checklist](https://docs.google.com/spreadsheets/d/1fixkK-ygaenxCIoiQaap8UmdMoFDSDq8gQYswfLZ0ZU/edit#gid=1909205264)
 - [Test-Cases](https://docs.google.com/spreadsheets/d/1fixkK-ygaenxCIoiQaap8UmdMoFDSDq8gQYswfLZ0ZU/edit#gid=1060147860)
 - [Bug-Reports](https://docs.google.com/spreadsheets/d/1fixkK-ygaenxCIoiQaap8UmdMoFDSDq8gQYswfLZ0ZU/edit#gid=1346161501)
-- [Postman Collections]()
+- [Postman Collections](https://github.com/JuliyaKryv/Postman)
 
 ---
 
