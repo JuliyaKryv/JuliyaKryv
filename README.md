@@ -6,7 +6,7 @@
 
 ## My CV
 
-[![My CV](https://img.shields.io/badge/my_curriculum_vitae-4786cd?style=for-the-badge&logo=microsoftword&logoColor=88c8f7/)](https://drive.google.com/file/d/1pNIVhWpcbxy2GwFcroi9a3gFX0gZ-Sjp/view?usp=sharing "CLICK HERE")
+[![My CV](https://img.shields.io/badge/my_curriculum_vitae-4786cd?style=for-the-badge&logo=microsoftword&logoColor=88c8f7/)](https://drive.google.com/file/d/1zZLDTXbIA1GORJHVcKiDmQLRFlUYOiBi/view?usp=drive_link "CLICK HERE")
 
 ---
 
@@ -32,9 +32,6 @@
 
 ### Testing Documentation
 
-- [Checklist](https://docs.google.com/spreadsheets/d/1fixkK-ygaenxCIoiQaap8UmdMoFDSDq8gQYswfLZ0ZU/edit#gid=1909205264)
-- [Test-Cases](https://docs.google.com/spreadsheets/d/1fixkK-ygaenxCIoiQaap8UmdMoFDSDq8gQYswfLZ0ZU/edit#gid=1060147860)
-- [Bug-Reports](https://docs.google.com/spreadsheets/d/1fixkK-ygaenxCIoiQaap8UmdMoFDSDq8gQYswfLZ0ZU/edit#gid=1346161501)
 - [Postman Collections](https://github.com/JuliyaKryv/Postman)
 
 ---
