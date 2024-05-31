@@ -6,7 +6,7 @@
 
 ## My CV
 
-[![My CV](https://img.shields.io/badge/my_curriculum_vitae-4786cd?style=for-the-badge&logo=microsoftword&logoColor=88c8f7/)](https://drive.google.com/file/d/1Q7_yK6lvgAoDTvjquiZHv-meO46yHwXC/view?usp=sharing "CLICK HERE")
+[![My CV](https://img.shields.io/badge/my_curriculum_vitae-4786cd?style=for-the-badge&logo=microsoftword&logoColor=88c8f7/)](https://drive.google.com/file/d/1i-cRQe722NxRAWXDVf5o9EYN4umRtZRI/view?usp=sharing "CLICK HERE")
 
 ---
 
@@ -38,4 +38,4 @@
 
 ### Follow Me
 
-[![Header](https://img.shields.io/badge/Linkedin-30363c?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/yuliya-kryvitska-2ba970236/ "CLICK HERE")
+[![Header](https://img.shields.io/badge/Linkedin-30363c?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/yulia-kryvitska-2ba970236/ "CLICK HERE")
