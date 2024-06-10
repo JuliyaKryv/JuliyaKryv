@@ -6,7 +6,7 @@
 
 ## My CV
 
-[![My CV](https://img.shields.io/badge/my_curriculum_vitae-4786cd?style=for-the-badge&logo=microsoftword&logoColor=88c8f7/)](https://drive.google.com/file/d/1iRntEAvd-PL9r6_9SrtNIrFAKpilvew5/view?usp=sharing "CLICK HERE")
+[![My CV](https://img.shields.io/badge/my_curriculum_vitae-4786cd?style=for-the-badge&logo=microsoftword&logoColor=88c8f7/)](https://drive.google.com/file/d/1hTu_zhvAyiLK7SuWQYSkYxFEmiBJZkrG/view?usp=sharing "CLICK HERE")
 
 ---
 
